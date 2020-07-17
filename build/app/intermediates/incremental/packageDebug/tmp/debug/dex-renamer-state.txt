@@ -1,4 +1,4 @@
-#Thu Jul 16 19:49:13 BRT 2020
-base.0=/Users/ccaruso/Desktop/GROWDEV/cadastro_usuario_2/cadastro_usuario_growdev/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+#Thu Jul 16 21:32:55 BRT 2020
+base.0=/Users/ccaruso/Desktop/GROWDEV/cadastro_usuario_2/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

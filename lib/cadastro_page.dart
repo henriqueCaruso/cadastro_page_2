@@ -76,9 +76,11 @@ class _CadastroPageState extends State<CadastroPage> {
         child: Column(
           children: <Widget>[
             Form(
+              key: _form,
               child: SingleChildScrollView(
                 child: Column(
                   children: [
+                    SizedBox(height: 10),
                     TextFormField(
                       decoration: InputDecoration(
                         border: OutlineInputBorder(),
